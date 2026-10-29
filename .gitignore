@@ -1,0 +1,15 @@
+# Original copyrighted source and local processing output
+/source/
+/pages.txt
+*.pdf
+
+# Secrets and device exports
+.env
+*.pem
+*.key
+*.p12
+*.pfx
+*.ovpn
+*.backup
+*.cfg
+*.config
